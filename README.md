@@ -1,9 +1,5 @@
 # Welcome to My GitHub Profile!
 
-
-## My Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASMASHAIKH04&layout=compact)
-
 ## About Me
 Hi there! I'm ASMASHAIKH, a passionate developer who loves to code and contribute to open-source projects. Here are some of the things I work on:
 
@@ -14,6 +10,8 @@ Hi there! I'm ASMASHAIKH, a passionate developer who loves to code and contribut
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASMASHAIKH04&show_icons=true&theme=dark)
 
+## My Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASMASHAIKH04&layout=compact)
 
 [![](https://raw.githubusercontent.com/ASMASHAIKH04/github-profile-summary-cards/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/ASMASHAIKH04/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ASMASHAIKH04/github-profile-summary-cards/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/ASMASHAIKH04/github-profile-summary-cards)
