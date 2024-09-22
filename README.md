@@ -10,10 +10,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASMASHAIKH04&layout=compact)
 
 ## About Me
-Hi there! I'm ASMASHAIKH04, a passionate developer who loves to code and contribute to open-source projects. Here are some of the things I work on:
+Hi there! I'm ASMASHAIKH, a passionate developer who loves to code and contribute to open-source projects. Here are some of the things I work on:
 
 - **Languages**: HTML, CSS, JavaScript, C, C++, Java, SQL, Python and more!
-- **Frameworks**: Numpy, Pandas, Sklearn, Matplotlib, KNN, garibo, Seaborn, Pydub, Librosa, Pathlib, Shutlib, Tensorflow, PIL
+- **Frameworks**: Numpy, Pandas, Sklearn, Matplotlib, KNN, Seaborn, Pydub, Librosa, Pathlib, Shutlib, Tensorflow, PIL
 - **Interests**: Machine Learning, Web Development, DSA, DBMS, Raspberry pi
 
 ## GitHub Stats
