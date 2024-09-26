@@ -19,6 +19,6 @@ Hi there! I'm ASMASHAIKH, a passionate developer who loves to code and contribut
 [![](https://raw.githubusercontent.com/ASMASHAIKH04/github-profile-summary-cards/master/profile-summary-card-output/dark/3-stats.svg)](https://github.com/ASMASHAIKH04/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ASMASHAIKH04/github-profile-summary-cards/master/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/ASMASHAIKH04/github-profile-summary-cards)
 
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/asma-shaikh-b1629921b/ )) or check out my [portfolio](https://asmashaikh04.github.io/Protfolio/)!
+Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/asma-shaikh-b1629921b/] )) or check out my [portfolio](https://asmashaikh04.github.io/Protfolio/)!
 
 Thank you for visiting my profile! 😊
